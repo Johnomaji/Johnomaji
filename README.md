@@ -6,13 +6,7 @@
 <img align="right" style="height:auto;" alt="" width="180" class="avatar avatar-user width-full border color-bg-primary" src="#">
 <p aligh="left">
   <p>Hey there, welcome!</br>
-  I'm Omaji John, Web Developer  from <img
-  src="https://flagcdn.com/16x12/ng.png"
-  srcset="https://flagcdn.com/32x24/ng.png 2x,
-    https://flagcdn.com/48x36/ke.png 3x"
-  width="16"
-  height="12"
-  alt="Nigeria"> <b>Nigeria</b>.</p>
+  I'm Omaji John, Web Developer  </p>
   	
   💡 &nbsp;I create projects & content on Web development,
   🚧 &nbsp;I'm currently working on some awesome projects  
